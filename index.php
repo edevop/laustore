@@ -25,6 +25,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title><?=$title?></title>
 
+    <link href="https://fonts.googleapis.com/css?family=Anton|Yanone+Kaffeesatz" rel="stylesheet">
+
     <link rel="stylesheet" href="public/assets/css/master.css">
     <link rel="stylesheet" href="public/assets/css/master-mobile.css">
 
@@ -51,18 +53,39 @@
 
             </div>
             <div class="active b">
-
+                <div class="box-sections blur">
+                    <h3>Encuentra toda la vestimenta playera que necesitas para tus vacasiones.</h3>
+                    <h1>Las olas esperan</h1>
+                    <h3>Adquiere tu prenda en linea</h3>
+                    <div class="btn-secuense">
+                        <button>ver chicas</button>
+                        <button>ver chicos</button>
+                    </div>
+                </div>
             </div>
         </div>
 
         <div class="showcase--model-2">
             <div class="active">
-
+                <div class="box-sections">
+                    <h3>Encuentra toda la vestimenta playera que necesitas para tus vacasiones.</h3>
+                    <h1>Las olas esperan</h1>
+                    <h3>Adquiere tu prenda en linea</h3>
+                    <div class="btn-secuense">
+                        <button>ver chicas</button>
+                        <button>ver chicos</button>
+                    </div>
+                </div>
             </div>
             <div class="active model-1" style="background-image: url('public/assets/images/showcase/model-2.jpg');">
 
             </div>
         </div>
+
+        <footer>
+
+
+        </footer>
     </div>
 
     <script src="" charset="utf-8"></script>
